@@ -1,5 +1,6 @@
 #!/bin/bash
 
+## FROM http://blog.rumyhub.com/post/2015/01/31/ubuntu-fixing-cm-storm-devastator-keyboard-backlight-button.aspx | ALL THE CREDITS GO THERE!
 ## CM Devastator II Keyboard Backlighting On/Off Switch for Ubuntu
 ## tested on Ubuntu 16.04
 ## FLAG command at line 1 should be run before to get correct value used in line 2 
